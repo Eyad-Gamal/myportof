@@ -26,7 +26,7 @@
                 radial-gradient(circle at 90% 80%, rgba(255, 77, 90, 0.05) 0%, transparent 20%);
         }
 
-        /* Floating squares animation for entire page */
+        /* Floating squares animation for entire page  */
         .floating-squares {
             position: fixed;
             top: 0;

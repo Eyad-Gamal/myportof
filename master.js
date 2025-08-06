@@ -6,7 +6,7 @@
             }, 1000);
         });
 
-        // Create floating squares for entire page
+        // Create floating squares for  entire page
         function createFloatingSquares() {
             const container = document.getElementById('floating-squares');
             const squareCount = 12;
